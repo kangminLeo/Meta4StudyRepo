@@ -11,3 +11,7 @@ This is Third commit and push
 다
 
 std::cout << "This is Fifth commit and push" << std::endl;
+
+Ctrl + Shift + A = 기본 깃 설정
+
+Extensions - Git Graph 설치
